@@ -35,7 +35,7 @@
 <img align='left' title="Matplotlib" alt='Matplotlib' width='26px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png'>
 <img align='left' title="Seaborn" alt='Seaborn' width='26px' src='https://avatars.githubusercontent.com/u/22799945?s=200&v=4'>
 <img align='left' title='Sklearn' alt='Sklearn' height="26px" width='26px' src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'>
-<img align='left' title="Tensorflow" alt='Tensorflow' width='26px' src='https://symbols.getvecta.com/stencil_97/43_tensorflow-icon.f7092db2bd.svg'>
+<img align='left' title="Tensorflow" alt='Tensorflow' width='26px' src='https://avatars.githubusercontent.com/u/15658638?s=200&v=4'>
 
 
 
