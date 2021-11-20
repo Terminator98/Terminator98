@@ -36,6 +36,7 @@
 <img align='left' title="Seaborn" alt='Seaborn' width='26px' src='https://avatars.githubusercontent.com/u/22799945?s=200&v=4'>
 <img align='left' title='Sklearn' alt='Sklearn' height="26px" width='26px' src='https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg'>
 <img align='left' title="Tensorflow" alt='Tensorflow' width='26px' src='https://avatars.githubusercontent.com/u/15658638?s=200&v=4'>
+<img align='left' title="Keras" alt='Keras' width='26px' src='https://avatars.githubusercontent.com/u/34455048?s=200&v=4'>
 
 
 
