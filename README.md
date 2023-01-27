@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently trying to learn everything related to my most loved field which is Data Science
 - 🧠 Thinking about how to make the world more comfortable for humans
-- 🥅 2022 Goals: Gain more knowledge to be able to have my own business
+- 🥅 2023 Goals: Gain more knowledge to be able to have my own business
 - ⚡ Fun fact: I love to play games and read in Islamic history
 
 
