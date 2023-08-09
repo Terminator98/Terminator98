@@ -2,12 +2,12 @@
 ### Love to be called Terminator sometimes and Predator other times 
 
 
-### I'm a computer engineering student in the morning and MMA fighter at night 🥊🥊
+### I'm a computer engineer in the morning and MMA fighter at night 🥊🥊
 
-- 🌱 I’m currently trying to learn everything related to my most loved field which is Data Science
-- 🧠 Thinking about how to make the world more comfortable for humans
-- 🥅 2023 Goals: Gain more knowledge to be able to have my own business
-- ⚡ Fun fact: I love to play games and read in Islamic history
+- 🌱 I’m currently trying to learn everything related to my most loved field which is Data Science.
+- 🧠 Thinking about making the world more comfortable for humans and utilizing AI for the service of the mankind not against them.
+- 🥅 2024 Goals: Gain more knowledge to be able to have my own business.
+- ⚡ Fun fact: I love to play games and read in Islamic history.
 
 
 ### Connect with me:
@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png" />
+<img align="left" title="Visual Studio" alt="Visual Studio" width="26px" src="https://img.icons8.com/?size=512&id=48455&format=png" />
 <img align="left" title="VS Code" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align='left' title="Python" alt='Python' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>
 <img align='left' title="C" alt='C' width='26px' src="https://img.icons8.com/color/48/000000/c-programming.png"/>
