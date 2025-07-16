@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently trying to learn everything related to my most loved field which is Data Science.
 - 🧠 Thinking about making the world more comfortable for humans and utilizing AI for the service of the mankind not against them.
-- 🥅 2024 Goals: Gain more knowledge to be able to have my own business.
-- ⚡ Fun fact: I love to play games and read in Islamic history.
+- 🥅 2025 Goals: Gain more knowledge to be able to have my own business.
+- ⚡ Fun fact: I love playing games and reading in Islamic history.
 
 
 ### Connect with me:
@@ -25,7 +25,7 @@
 <img align='left' title="Python" alt='Python' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'>
 <img align='left' title="C" alt='C' width='26px' src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img align='left' title="C++" alt='C++' width='26px' src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align='left' title="C#" alt='C#'  width='26px' src="https://camo.githubusercontent.com/48e2c8e018b14e1ba56226db9ab5038720ea237ff94b7d495add673117efab31/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d73686172702d6c6f676f2d322e706e67"/>
+<img align='left' title="C#" alt='C#'  width='26px' src="https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg"/>
 <img align="left" title="SQL" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" title="Github" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -38,6 +38,8 @@
 <img align='left' title="Tensorflow" alt='Tensorflow' width='26px' src='https://avatars.githubusercontent.com/u/15658638?s=200&v=4'>
 <img align='left' title="Keras" alt='Keras' width='26px' src='https://avatars.githubusercontent.com/u/34455048?s=200&v=4'>
 <img align='left' title="Swift" alt='Swift' width='26px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png'>
+<img align='left' title="Ollama" alt="Ollama" width='26px' src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4">
+<img align='left' title="LangChain" alt="LangChain" width='26px' src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4">
 
 
 <br />
@@ -46,3 +48,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/mohammadashraf98/
+[website]: https://www.mohammadashraf.me
